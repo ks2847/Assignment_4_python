@@ -16,17 +16,17 @@ While loop is used to iterate all the lines in the list to print line by line as
 
 # Task_2
 
-Input function used to take data from the user
-opened the text file in write mode
-input data written in the opened text file
-print the output data as required by Program for the user
-close the text file
-Input function used to take additional data from the user
-Same text file opened in append mode to write additional data at end of existing data
-Next line appended in the text file so that we can append additional data in the next line
-Additional data appended
-print the output data as required by Program for the user
-Close the file
-Opened the text file in reading mode to display the entire content of file as output
+Input function used to take data from the user.
+opened the text file in write mode.
+input data written in the opened text file.
+print the output data as required by Program for the user.
+close the text file.
+Input function used to take additional data from the user.
+Same text file opened in append mode to write additional data at end of existing data.
+Next line appended in the text file so that we can append additional data in the next line.
+Additional data appended.
+print the output data as required by Program for the user.
+Close the file.
+Opened the text file in reading mode to display the entire content of file as output.
 Read function is used to read the data & Print function used to display output as required by the Program.
-Close the file
+Close the file.
